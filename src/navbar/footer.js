@@ -13,9 +13,9 @@ const Footer = () => (
   >
     <Col xs="12" md="12" lg="6" className="text-center">
       <div style={{ color: "#fff" }}>
-        View source:{" "}
+        {/* View source:{" "} */}
         <a
-          href="https://github.com/swaroopmaddu/solana-nft-gallery"
+          // href="https://github.com/swaroopmaddu/solana-nft-gallery"
           style={{ color: "#fff" }}
         >
           Github
@@ -25,10 +25,10 @@ const Footer = () => (
 
     <Col xs="12" md="12" lg="6" className="text-center">
       <div style={{ color: "#fff" }}>
-        © 2020 Copyright:{" "}
-        <a href="https://swaroopmaddu.me/" style={{ color: "#fff" }}>
-          Swaroop Maddu
-        </a>
+        {/* © 2020 Copyright:{" "} */}
+        {/* <a href="https://swaroopmaddu.me/" style={{ color: "#fff" }}> */}
+          {/* Swaroop Maddu */}
+        {/* </a> */}
       </div>
     </Col>
   </Row>
